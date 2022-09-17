@@ -9,3 +9,6 @@ venv.bak/
 
 # Data
 data/dialogueText_301.csv
+
+# Models
+models/
